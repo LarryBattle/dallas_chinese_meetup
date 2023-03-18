@@ -1,23 +1,23 @@
 Date introduced,English,Pinyin,Chinese,Note,Anki Card Front,Anki Card Back
-"Feb 25,2023",book shelf,Shūjià,书架,shelf without doors for the books,book shelf<br>shelf without doors for the books,书架<br>Shūjià
-"Feb 25,2023",bookcase,Shūguì,书柜,shelf with doors,bookcase<br>shelf with doors,书柜<br>Shūguì
-"Feb 25,2023",ceiling,tiānhuābǎn,天花板,,ceiling<br>,天花板<br>tiānhuābǎn
-"Feb 25,2023",clock,Shízhōng,时钟,,clock<br>,时钟<br>Shízhōng
-"Feb 25,2023",coffee table,chájī,茶几,,coffee table<br>,茶几<br>chájī
-"Feb 25,2023",curtain,chuānglián,窗帘,,curtain<br>,窗帘<br>chuānglián
-"Feb 25,2023",door,mén,门,,door<br>,门<br>mén
-"Feb 25,2023",floor (inside building),dìbǎn,地板,,floor (inside building)<br>,地板<br>dìbǎn
-"Feb 25,2023",floor (outside),dì,地,,floor (outside)<br>,地<br>dì
-"Feb 25,2023",headphones,ěrjī,耳机,,headphones<br>,耳机<br>ěrjī
-"Feb 25,2023",light switch,kāiguān,开关,,light switch<br>,开关<br>kāiguān
-"Feb 25,2023",painting,huà,画,,painting<br>,画<br>huà
-"Feb 25,2023",roof,wūdǐng,屋顶,,roof<br>,屋顶<br>wūdǐng
-"Feb 25,2023",sofa,shāfā,沙发,,sofa<br>,沙发<br>shāfā
-"Feb 25,2023",TV stand,diànshì jià,电视架,tv stand without shelfs,TV stand<br>tv stand without shelfs,电视架<br>diànshì jià
-"Feb 25,2023",TV cabinet,diànshì guì,电视柜,tv stand with shelfs,TV cabinet<br>tv stand with shelfs,电视柜<br>diànshì guì
-"Feb 25,2023",TV,diànshì,电视,,TV<br>,电视<br>diànshì
-"Feb 25,2023",wall,qiáng,墙,,wall<br>,墙<br>qiáng
-02/28/23,wall tile,qiáng zhuān,瓷砖 ,ceramic tile,wall tile,瓷砖 <br>qiáng zhuān
+02/25/23,book shelf,Shūjià,书架,shelf without doors for the books,book shelf<br>shelf without doors for the books,书架<br>Shūjià
+02/25/23,bookcase,Shūguì,书柜,shelf with doors,bookcase<br>shelf with doors,书柜<br>Shūguì
+02/25/23,ceiling,tiānhuābǎn,天花板,,ceiling<br>,天花板<br>tiānhuābǎn
+02/25/23,clock,Shízhōng,时钟,,clock<br>,时钟<br>Shízhōng
+02/25/23,coffee table,chájī,茶几,,coffee table<br>,茶几<br>chájī
+02/25/23,curtain,chuānglián,窗帘,,curtain<br>,窗帘<br>chuānglián
+02/25/23,door,mén,门,,door<br>,门<br>mén
+02/25/23,floor (inside building),dìbǎn,地板,,floor (inside building)<br>,地板<br>dìbǎn
+02/25/23,floor (outside),dì,地,,floor (outside)<br>,地<br>dì
+02/25/23,headphones,ěrjī,耳机,,headphones<br>,耳机<br>ěrjī
+02/25/23,light switch,kāiguān,开关,,light switch<br>,开关<br>kāiguān
+02/25/23,painting,huà,画,,painting<br>,画<br>huà
+02/25/23,roof,wūdǐng,屋顶,,roof<br>,屋顶<br>wūdǐng
+02/25/23,sofa,shāfā,沙发,,sofa<br>,沙发<br>shāfā
+02/25/23,TV stand,diànshì jià,电视架,tv stand without shelfs,TV stand<br>tv stand without shelfs,电视架<br>diànshì jià
+02/25/23,TV cabinet,diànshì guì,电视柜,tv stand with shelfs,TV cabinet<br>tv stand with shelfs,电视柜<br>diànshì guì
+02/25/23,TV,diànshì,电视,,TV<br>,电视<br>diànshì
+02/25/23,wall,qiáng,墙,,wall<br>,墙<br>qiáng
+02/28/23,wall tile,qiáng zhuān,瓷砖,ceramic tile,wall tile,瓷砖 <br>qiáng zhuān
 02/28/23,mirror,jìng zi,镜子,,mirror,镜子<br>jìng zi
 02/28/23,bath towel,yù jīn,浴巾,,bath towel,浴巾<br>yù jīn
 02/28/23,towel,máo jīn,毛巾,,towel,毛巾<br>máo jīn
@@ -26,7 +26,7 @@ Date introduced,English,Pinyin,Chinese,Note,Anki Card Front,Anki Card Back
 02/28/23,sink for washing face,xǐ liǎn chí,洗脸池,,sink for washing face,洗脸池<br>xǐ liǎn chí
 02/28/23,toilet paper,wèi shēng zhǐ,卫生纸,,toilet paper,卫生纸<br>wèi shēng zhǐ
 02/28/23,toilet,mǎ tǒng,马桶,,toilet,马桶<br>mǎ tǒng
-02/28/23,curtain,Yù lián ,浴帘,,curtain,浴帘<br>Yù lián 
+02/28/23,curtain,Yù lián,浴帘,,curtain,浴帘<br>Yù lián
 02/28/23,shower head,lín yù tóu,淋浴头,,shower head,淋浴头<br>lín yù tóu
 03/14/23,I can't see,Wǒ kàn bùjiàn,我看不见,,I can't see,我看不见<br>Wǒ kàn bùjiàn
 03/14/23,I can't hear,wǒ tīng bùjiàn,我听不见,,I can't hear,我听不见<br>wǒ tīng bùjiàn
@@ -43,4 +43,33 @@ Date introduced,English,Pinyin,Chinese,Note,Anki Card Front,Anki Card Back
 03/14/23,What is your name?,Nǐ jiào shénme míngzì?,你叫什么名字？,,What is your name?,你叫什么名字？<br>Nǐ jiào shénme míngzì?
 03/14/23,What person is that?,Nà shì shénme rén?,那是什么人？,,What person is that?,那是什么人？<br>Nà shì shénme rén?
 03/14/23,Apple Cellphone,Píngguǒ shǒujī,苹果手机,,Apple Cellphone,苹果手机<br>Píngguǒ shǒujī
-
+03/04/23,cola,kělè,可乐,,cola,可乐<br>kělè
+03/04/23,root beer,shāshì,沙士,,root beer,沙士<br>shāshì
+03/04/23,soda,qìshuǐ,汽水,,soda,汽水<br>qìshuǐ
+03/04/23,Milk shake,nǎi xī,奶昔,,Milk shake,奶昔<br>nǎi xī
+03/04/23,coffee,kāfēi,咖啡,,coffee,咖啡<br>kāfēi
+03/04/23,smoothie,bīng shā,冰沙,,smoothie,冰沙<br>bīng shā
+03/04/23,hot chocolate,rè kěkě,热可可,,hot chocolate,热可可<br>rè kěkě
+03/04/23,oolong tea,wūlóngchá,乌龙茶,,oolong tea,乌龙茶<br>wūlóngchá
+03/04/23,green tea,lǜchá,绿茶,,green tea,绿茶<br>lǜchá
+03/04/23,milk tea,nǎichá,奶茶,,milk tea,奶茶<br>nǎichá
+03/04/23,milk,niúnǎi,牛奶,,milk,牛奶<br>niúnǎi
+03/04/23,soy milk,dòujiāng,豆浆,,soy milk,豆浆<br>dòujiāng
+03/04/23,rice milk,mǐ jiāng,米浆,,rice milk,米浆<br>mǐ jiāng
+03/04/23,lemonade,níngméng shuǐ,柠檬水,,lemonade,柠檬水<br>níngméng shuǐ
+03/04/23,juice,guǒzhī,果汁,,juice,果汁<br>guǒzhī
+03/18/23,Chinese chess,xiàngqí,象棋,,Chinese chess,象棋<br>xiàngqí
+03/18/23,International Chess,guójì xiàngqí,国际象棋,,International Chess,国际象棋<br>guójì xiàngqí
+03/18/23,Turn,Lún dào,轮到 ,,Turn,轮到 <br>Lún dào
+03/18/23,It’s your turn,Lún dào nǐle,轮到你了,,It’s your turn,轮到你了<br>Lún dào nǐle
+03/18/23,river,hé,河,,river,河<br>hé
+03/18/23,lake,hú,湖,,lake,湖<br>hú
+03/18/23,Cross the river,guò hé,过河,,Cross the river,过河<br>guò hé
+03/18/23,General,jiàng, 将 ,,General, 将 <br>jiàng
+03/18/23,General,shuài , 帅 ,,General, 帅 <br>shuài 
+03/18/23,Advisor,shì, 士,,Advisor, 士<br>shì
+03/18/23,Elephant,xiàng ,相,,Elephant,相<br>xiàng 
+03/18/23,Horses,mǎ,馬 ,,Horses,馬 <br>mǎ
+03/18/23,Cannon,pào, 砲,,Cannon, 砲<br>pào
+03/18/23,Soldier,zú, 卒,,Soldier, 卒<br>zú
+03/18/23,Soldier,bīng, 兵 ,,Soldier, 兵 <br>bīng
